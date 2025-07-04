@@ -1,4 +1,4 @@
-# Task2
+# Task
 Develop a simplified online shop system where users can add products to a shopping cart, view the total cost, and place an order.
 You can define classes for product, shopping cart, and order processing.
 ## 
